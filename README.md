@@ -8,7 +8,7 @@
 
 ## Major: Neuroscience 🧠
 
-
+I enrolled in <mark>Neural Data Science</mark> as it is important to learn coding for future careers in neuroscience, especially with medical imaging technologies 
 
 
 <!--
